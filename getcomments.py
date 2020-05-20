@@ -5,14 +5,14 @@
 # Check web pages for hidden comments
 #
 # NOTE: This is not another spider/brute force script
-# We are expecting output from gobuster or ffuf
+# We will check files with 200 status from gobuster or ffuf
 #
 # This program can be redistributed and/or modified under the terms of the
 # GNU General Public License, either version 3 of the License, or (at your
 # option) any later version.
 #
 # Author: vaccine - https://jellyfishsizzle.xyz
-# Version: v1.2
+# Version: v1.3
 
 import requests
 from requests.exceptions import Timeout
