@@ -12,13 +12,12 @@
 # option) any later version.
 #
 # Author: vaccine - https://jellyfishsizzle.xyz
-# Version: v1.3
+# Version: v1.4
 
 import requests
 from requests.exceptions import Timeout
 import argparse
 import re
-import os.path
 from bs4 import BeautifulSoup, Comment
 from colorama import Fore, Style
 from termcolor import colored
