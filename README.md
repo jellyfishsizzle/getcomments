@@ -54,8 +54,8 @@ tmp                     [Status: 301, Size: 233, Words: 14, Lines: 8]
 LICENSE.txt             [Status: 200, Size: 18092, Words: 3133, Lines: 340]
 administrator/          [Status: 200, Size: 4846, Words: 227, Lines: 110]
 configuration.php       [Status: 200, Size: 0, Words: 1, Lines: 1]
-something.php       	[Status: 200, Size: 0, Words: 1, Lines: 1]
-blah.php       		[Status: 200, Size: 0, Words: 1, Lines: 1]
+something.php       	  [Status: 200, Size: 0, Words: 1, Lines: 1]
+blah.php       		      [Status: 200, Size: 0, Words: 1, Lines: 1]
 htaccess.txt            [Status: 200, Size: 3005, Words: 438, Lines: 81]
 cli/                    [Status: 200, Size: 31, Words: 2, Lines: 2]
 cli                     [Status: 301, Size: 233, Words: 14, Lines: 8]
@@ -80,7 +80,7 @@ flag1(F4F9F1AA4975C248C3F0E008CBA09D6E9166)
 [+] http://127.0.0.1/configuration.php
 div class="count-particles" - Im a comment!
 
-flag1(52E37291AEDF6A46D7D0BB8A6312F4F9F1AA4975C248C3F0E008CBA09D6E9166)
+flag1 (52E33F0E008CBA09D6E9166)
 
 [+] http://127.0.0.1/index.php
 COMMENT 1
@@ -88,7 +88,7 @@ COMMENT 2
 
 some comment here
 
-flag1(52E37291AEDF6A46D7D0BB8A6312F4F9F1AA4975C248C3F0E008CBA09D6E9166)
+flag3 (52E37291AEDF6A46D76)
 
 [+] http://127.0.0.1/secret.txt
 COMMENT in txt file?
